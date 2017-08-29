@@ -5,10 +5,10 @@
     xmlns:fab="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.hoperun.floatingtwo.MainActivity">
+    tools:context="com.example.stormxz.floatingtwo.MainActivity">
 
     <!--创建Menu  并且定义不同的样式-->
-    <com.example.hoperun.floatingtwo.FloatingActionsMenu
+    <com.example.stormxz.floatingtwo.FloatingActionsMenu
         android:id="@+id/multiple_actions"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -22,7 +22,7 @@
 
 
         <!--创建子view   并且给予不同的样式-->
-        <com.example.hoperun.floatingtwo.FloatingActionButton
+        <com.example.stormxz.floatingtwo.FloatingActionButton
             android:id="@+id/float_action_share"
             android:layout_width="24dp"
             android:layout_height="24dp"
@@ -33,7 +33,7 @@
             fab:fab_icon="@drawable/ic_action_share"
             fab:fab_title="@string/share" />
 
-        <com.example.hoperun.floatingtwo.FloatingActionButton
+        <com.example.stormxz.floatingtwo.FloatingActionButton
             android:id="@+id/float_action_archive"
             android:layout_width="24dp"
             android:layout_height="24dp"
@@ -46,7 +46,7 @@
 
 
 
-        <com.example.hoperun.floatingtwo.FloatingActionButton
+        <com.example.stormxz.floatingtwo.FloatingActionButton
             android:id="@+id/float_action_delete"
             android:layout_width="24dp"
             android:layout_height="24dp"
@@ -57,7 +57,7 @@
             fab:fab_icon="@drawable/ic_action_delete"
             fab:fab_title="@string/delete" />
 
-        <com.example.hoperun.floatingtwo.FloatingActionButton
+        <com.example.stormxz.floatingtwo.FloatingActionButton
             android:id="@+id/float_action_copy"
             android:layout_width="24dp"
             android:layout_height="24dp"
@@ -68,7 +68,7 @@
             fab:fab_icon="@drawable/ic_action_copy"
             fab:fab_title="@string/copy" />
 
-        <com.example.hoperun.floatingtwo.FloatingActionButton
+        <com.example.stormxz.floatingtwo.FloatingActionButton
             android:id="@+id/float_action_cut"
             android:layout_width="24dp"
             android:layout_height="24dp"
@@ -79,6 +79,6 @@
             fab:fab_icon="@drawable/ic_action_cut"
             fab:fab_title="@string/cut" />
 
-    </com.example.hoperun.floatingtwo.FloatingActionsMenu>
+    </com.example.stormxz.floatingtwo.FloatingActionsMenu>
 
 </LinearLayout>

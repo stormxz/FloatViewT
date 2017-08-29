@@ -1,4 +1,4 @@
-package com.example.hoperun.floatingtwo;
+package com.example.stormxz.floatingtwo;
 
 import org.junit.Test;
 
