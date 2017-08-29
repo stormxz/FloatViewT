@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">FloatingTwo</string>
+
+    <string name="compress_file_name_too_long">"The compress file name is too long"</string>
+    <string name="category_safe">"Private"</string>
+    <string name="remove_private_tip">"Remove from Private mode?"</string>
+    <string name="remove_private_title">"Remove"</string>
+    <string name="remove_safe_single">"Make %1$s visible to all users?"</string>
+    <string name="remove_safe_multi">"Make selected files visible to all users?"</string>
+    <string name="safe_no_file_title">"No private files yet"</string>
+    <string name="safe_no_file_content">"Touch the top right corner to add files"</string>
+    <string name="safe_activity_title">"Private files"</string>
+    <string name="move_safe">"Set private"</string>
+    <string name="set_public">"Set public"</string>
+    <string name="add_files">"Add files"</string>
+
+    <!-- More Menu String start-->
+    <string name="copy">"Copy"</string>
+    <string name="create_folder">"Create"</string>
+    <string name="cut">"Cut"</string>
+    <string name="delete">"Delete"</string>
+    <string name="deselect_all">"Deselect all"</string>
+    <string name="select_all">"Select all"</string>
+    <string name="show_file">"Show hidden files"</string>
+    <string name="hide_file">"Hide hidden files"</string>
+    <string name="paste">"Paste"</string>
+    <string name="rename">"Rename"</string>
+    <string name="extract">"Extract"</string>
+    <string name="extracting">"Extracting"</string>
+    <string name="compress">"Compress"</string>
+    <string name="compressing">"Compressing"</string>
+    <string name="share">"Share"</string>
+    <string name="menu_select">"Select"</string>
+    <string name="view_list">"List view"</string>
+    <string name="view_grid">"Grid view"</string>
+    <string name="create_new_folder">"Create folder"</string>
+    <string name="detail">"Details"</string>
+    <string name="shortcut_item">"Add shortcut"</string>
+    <string name="search">"Search"</string>
+    <!-- More Menu String end-->
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent_background">#00000000</color>
+    <color name="black">#000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="half_black">#808080</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="actionbar_edit_bg">#F8F8F8F8</color>
+    <color name="float_menu_default_color">#FF5925</color>
+    <color name="float_menu_default_pressed_color">#66FF5925</color>
+    <color name="float_menu_exposed_pressed_color">#66808080</color>
+
+
+
+
+
+</resources>
